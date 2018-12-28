@@ -9,3 +9,4 @@ theme: jekyll-theme-primer
 gfm_quirks: paragraph_end
 title: Immutable Versioning
 description: ""
+google_analytics: UA-131489669-1
